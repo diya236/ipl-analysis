@@ -13,19 +13,19 @@
 
 This project performs a comprehensive analysis of IPL cricket data spanning **2008 to 2020** using Python. It includes:
 
-- 🏆 Team win analysis across all seasons
-- 🎲 Toss impact on match outcomes
-- 🏏 Top batsmen by total runs and strike rate
-- 🎯 Top bowlers by wickets (excluding run-outs)
-- 💀 Best death-over finishers (Overs 16–20)
-- 🤝 Best batting partnerships
-- 🏟️ Venue-wise match distribution
+-  Team win analysis across all seasons
+-  Toss impact on match outcomes
+-  Top batsmen by total runs and strike rate
+-  Top bowlers by wickets (excluding run-outs)
+-  Best death-over finishers (Overs 16–20)
+-  Best batting partnerships
+-  Venue-wise match distribution
 
 The project is also deployed as an **interactive Streamlit web app** with season filters, player search, and head-to-head comparisons.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 👉 **[Click here to open the Streamlit App](https://ipl-analysis-ifjtkta3ef8rjyappmjrxn.streamlit.app/)** 
 
@@ -118,7 +118,7 @@ Open your browser at `http://localhost:8501`
 **Your Name**
 - 📧 diyabhavesh2306@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/diya-patel-4b0375335/)
-- 🐙 [GitHub](https://github.com/diya236))
+- 🐙 [GitHub](https://github.com/diya236)
 
 ---
 
