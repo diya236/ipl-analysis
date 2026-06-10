@@ -116,9 +116,9 @@ Open your browser at `http://localhost:8501`
 ## 👨‍💻 Author
 
 **Your Name**
-- 📧 diyabhavesh2306@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/diya-patel-4b0375335/)
-- 🐙 [GitHub](https://github.com/diya236)
+-  diyabhavesh2306@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/diya-patel-4b0375335/)
+-  [GitHub](https://github.com/diya236)
 
 ---
 
