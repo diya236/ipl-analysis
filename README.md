@@ -27,7 +27,7 @@ The project is also deployed as an **interactive Streamlit web app** with season
 
 ## 🚀 Live Demo
 
-👉 **[Click here to open the Streamlit App]([#](https://ipl-analysis-ifjtkta3ef8rjyappmjrxn.streamlit.app/))** 
+👉 **[Click here to open the Streamlit App](https://ipl-analysis-ifjtkta3ef8rjyappmjrxn.streamlit.app/)** 
 
 ---
 
